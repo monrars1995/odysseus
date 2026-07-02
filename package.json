@@ -1,7 +1,22 @@
 {
+  "name": "odysseus-neuro-version",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Self-hosted AI workspace fork maintained by @monrars1995.",
+  "license": "AGPL-3.0-or-later",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pewdiepie-archdaemon/odysseus.git"
+    "url": "git+https://github.com/monrars1995/odysseus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/monrars1995/odysseus/issues"
+  },
+  "homepage": "https://github.com/monrars1995/odysseus#readme",
+  "scripts": {
+    "test": "python3 scripts/run_python.py -m pytest",
+    "test:fast": "python3 scripts/run_python.py tests/run_focus.py --fast",
+    "test:js": "python3 scripts/run_python.py -m pytest -m area_js",
+    "test:readme": "python3 scripts/run_python.py -m pytest tests/test_readme_ascii_fenced.py"
   },
   "devDependencies": {
     "@antithesishq/bombadil": "^0.6.1"

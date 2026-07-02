@@ -28,7 +28,7 @@
 > `dev` is the default branch and gets the newest changes first. Use [`main`](https://github.com/pewdiepie-archdaemon/odysseus/tree/main) if you want the more curated branch.
 
 ```bash
-git clone https://github.com/pewdiepie-archdaemon/odysseus.git
+git clone https://github.com/monrars1995/odysseus.git
 cd odysseus
 cp .env.example .env
 docker compose up -d --build
@@ -74,3 +74,13 @@ Odysseus is a self-hosted workspace with powerful local tools. Keep auth enabled
 ## License
 
 AGPL-3.0-or-later -- see [LICENSE](LICENSE) and [ACKNOWLEDGMENTS.md](ACKNOWLEDGMENTS.md).
+
+## Fork Maintainer
+
+This Neuro Version fork is maintained by Marcelo / Monrars.
+
+- Instagram: [@monrars](https://instagram.com/monrars)
+- Site: [goldneuron.io](https://goldneuron.io)
+- GitHub: [@monrars1995](https://github.com/monrars1995)
+
+Upstream project: [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus).

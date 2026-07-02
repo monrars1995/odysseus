@@ -34,3 +34,9 @@ environment.
 The token is scope-gated. Every tool surface is checked server-side in Odysseus,
 so even if Claude tries to call a forbidden endpoint, it gets `403` until the
 user enables the matching toggle in Settings > Integrations > Claude Agent.
+
+## Maintainer
+
+- Instagram: [@monrars](https://instagram.com/monrars)
+- Site: [goldneuron.io](https://goldneuron.io)
+- GitHub: [@monrars1995](https://github.com/monrars1995)

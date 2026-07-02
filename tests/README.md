@@ -254,3 +254,9 @@ Run validation locally before opening or approving a PR. Practical checks:
 4. Add further tiny helpers only when the repeated semantics are clear.
 5. Start low-risk file moves only after helper conventions are documented.
 6. Avoid moving high-risk security/route regression files first.
+
+## Maintainer
+
+- Instagram: [@monrars](https://instagram.com/monrars)
+- Site: [goldneuron.io](https://goldneuron.io)
+- GitHub: [@monrars1995](https://github.com/monrars1995)
